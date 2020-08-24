@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="50dp"
+        android:text="A"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="20dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="B"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="20dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="C"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="20dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="D"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="E"/>
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="F"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="G"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="H"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="I"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="J"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="K"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="L"/>
+
+
+</GridLayout>
